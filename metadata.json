@@ -1,0 +1,6 @@
+{
+  "name": "Osaka PTT",
+  "description": "Mumble client khusus HT Osaka Q8 dan radio PoC Android dengan tombol navigasi keypad, PTT hardware, volume knob, dan layar QVGA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
